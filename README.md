@@ -1,10 +1,34 @@
-## HTML Fundamentals Project
-This repository encapsulates an elementary yet structurally sound exploration of HTML semantics and web document construction. It includes:
+# 🌐 Full Stack Web Dev Journal
 
-- Usage of `<head>` metadata and viewport settings for responsive design
-- Practice with structural elements like headings, paragraphs, and anchor tags
-- Demonstration of both ordered and unordered lists for hierarchical data representation
-- Basic interlinking between HTML files and integration of external assets
-- Sample text files to simulate linked resources or placeholder content
+This repository documents my structured learning journey into full stack web development. All projects and experiments are organized module-wise, starting with HTML fundamentals.
 
-The intention behind this project is to solidify foundational web development principles with clean, readable markup adhering to W3C standards.
+---
+
+## 📁 html-intro-projects
+
+📅 **Day 01 – HTML Foundations**
+
+🔹 What is HTML: Understanding the structure and purpose of HyperText Markup Language  
+⚡ Emmet: Using powerful shorthand for faster coding in VS Code  
+🔠 Headings: Semantic heading tags (`<h1>` to `<h6>`)  
+📦 Block vs Inline elements: Layout behavior and rendering flow
+
+---
+
+📅 **Day 02 – HTML Layout & Forms**
+
+🧱 Building semantic HTML pages: Tags like `<header>`, `<main>`, `<section>`, `<footer>`  
+🧩 Tables: Creating data structures using `<table>`, `<tr>`, `<td>`, `<thead>`, `<tbody>`  
+📝 Forms: Capturing user input via `<form>`, `<input>`, `<label>`, `<textarea>`, `<button>`
+
+---
+
+📅 **Day 03 – Multimedia & Accessibility**
+
+🎥 Multimedia: Embedding images, audio, and video using `<img>`, `<audio>`, `<video>`  
+♿ ARIA & Accessibility: Using `aria-*` attributes and semantic elements for better screen reader support
+
+---
+
+🟢 Daily commits are made to ensure consistent progress and visibility in public.  
+🧠 Projects will expand into CSS, JS, and full-stack builds as the journey continues.
