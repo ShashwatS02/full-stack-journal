@@ -1,0 +1,27 @@
+{
+  "name": "full-stack-journal",
+  "version": "1.0.0",
+  "description": "This repository documents my structured learning journey into full stack web development. All projects and experiments are organized module-wise, starting with HTML fundamentals.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShashwatS02/full-stack-journal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShashwatS02/full-stack-journal/issues"
+  },
+  "homepage": "https://github.com/ShashwatS02/full-stack-journal#readme",
+  "devDependencies": {
+    "tailwindcss": "^4.1.11"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11"
+  }
+}
