@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Challenge 8</title>
+    <style>
+      .parent-container {
+        position: relative;
+        width: 400px;
+        height: 300px;
+        background-color: yellow;
+        border: 2px solid black;
+        padding: 20px;
+      }
+
+      .static-box {
+        width: 100px;
+        height: 50px;
+        background-color: red;
+        position: static;
+      }
+      .relative-box {
+        width: 100px;
+        height: 50px;
+        background-color: green;
+        position: relative;
+        top: 50px;
+        left: 50px;
+      }
+      .absolute-box {
+        width: 100px;
+        height: 50px;
+        background-color: blue;
+        position: absolute;
+        top: 30px;
+        left: 30px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="parent-container">
+      <div class="static-box">Static</div>
+      <div class="relative-box">Relative</div>
+      <div class="absolute-box">Absolute</div>
+    </div>
+  </body>
+</html>
