@@ -17,7 +17,7 @@ Call `confirmOrder` from within `orderTea` and return the result.
 
 function orderTea(teaType) {
   function confirmOrder() {
-    return `Order confirmed for chai`;
+    return `Order confirmed for ${teaType}`;
   }
   return confirmOrder();
 }
