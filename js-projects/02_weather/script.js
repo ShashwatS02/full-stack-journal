@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const descriptionDisplay = document.getElementById("description");
   const errorMessage = document.getElementById("error-message");
 
-  const API_KEY = "0765421bc552d6994a42dce4e5902f29"; //env variables
+  const API_KEY = "0765421bc552d6994a42dce4e5902f29adshfkljhdsalkgjhdsakjf"; //env variables // Replace with your OpenWeather API Key
 
   getWeatherBtn.addEventListener("click", async () => {
     const city = cityInput.value.trim();
